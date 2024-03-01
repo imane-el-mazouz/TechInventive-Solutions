@@ -1,71 +1,120 @@
-*{
-    padding: 0px ;
-    margin:0px;
+* {
+    padding: 0;
+    margin: 0;
     text-decoration: none;
-    box-size:border-box;
-
+    box-sizing: border-box;
 }
-
-
-
-
-
-.menu{
+.content{
+    margin: 0;
+}
+.menu {
     padding: 10px 50px;
     background-color: white;
     display: flex;
     justify-content: space-between;
-
 }
 
-.menu >button>a{
-    color: white;
-    font-size: 17px;
+.menu h1 {
+    margin: 0;
 }
-.spolaya{
-    display:flex;
-}
-.imgcontainer img {
-    display: block;
-    width: 100%;
-    height :auto;
-}
-.overtext{
-  position: absolute;
-    top: 50%;
-    left: 40%;
-    transform: translate(-33%,-50%);
+
+.menu button {
+    background-color: blue;
     color: white;
     padding: 10px 20px;
-    font-size: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.imgcontainer {
+    margin: 0;
     text-align: center;
-    font-family:Arial;
+    margin-bottom: 20px;
+    position:relative;
+}
+
+.overtext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 10px 20px;
+    font-size: 30px;
 
 }
-button{
-    color: white;
-    background-color: blue;
-    width: 70px;
-    border-color: blue;
-    border-radius: 8px;
-}
-footer{
-    background-color: blue;
 
+.email-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
 }
-a{
+
+.blue-btn {
+    background-color: blue;
     color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
-.copi{
-    color: white;
-    text-align: center;
-}
-.foo{
-    width: 50px;
-    height: 50px;
+
+.cl {
+    background-color:white;
     display: flex;
+    align-items: center;
+    justify-content:  space-around;
+    text-align: center;
+    padding: 100px;
 }
-.section{
-    display: inline-block;
 
+.class2 img {
+    width: 100px;
+    height: auto;
+}
+
+.class2 h3 {
+    margin: 20px 0 10px;
+}
+
+.class2 p {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color:blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: static;
+    display:flex;
+    margin-top: -59px;
+    margin-bottom: 75px;
+}
+
+
+
+.ourfooter {
+    width: 30px;
+    height: auto;
+    margin: 0 5px;
+}
+
+.copy {
+    text-align: center;
+    color: white;
+}
+.type{
+    font-size: 20px;
+    font-weight: 700;
 }
