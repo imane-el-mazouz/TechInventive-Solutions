@@ -1,4 +1,4 @@
-                   Projet d'Évaluation HTML/CSS
+                                                                 Projet d'Évaluation HTML/CSS
 Ce projet vise à évaluer les compétences des candidats en matière d'intégration web en reproduisant un design de maquette provenant de Figma en utilisant exclusivement HTML et CSS.
 
 *Objectif
