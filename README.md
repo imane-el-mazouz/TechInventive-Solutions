@@ -13,5 +13,3 @@ Ce projet vise à évaluer les compétences des candidats en matière d'intégra
       Assurer la compatibilité avec différents navigateurs et appareils.
       Respecter les bonnes pratiques en matière de structuration et de stylisation du code.
       Soumettre votre solution en créant une branche (branch) avec votre nom et en ouvrant une demande de tirage (pull request) vers la branche principale.
-*À Propos du Projet
-      Ce projet est destiné à évaluer les compétences des candidats dans le domaine de l'intégration web, en mettant l'accent sur la reproduction précise de maquettes en utilisant HTML et CSS. Il vise à fournir une expérience pratique dans le développement web et à permettre aux candidats de démontrer leurs compétences techniques.
